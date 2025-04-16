@@ -6,11 +6,11 @@ This project visualizes global video game sales using the `vgsales.csv` dataset.
 
 ![Dashboard Preview](screenshots/vgsales_dashboard.png)
 
-🔗 [View Interactive Tableau Dashboard](https://public.tableau.com/views/VideoGameSalesInsights_17448236185410/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+🔗 [View Interactive Tableau Dashboard](https://public.tableau.com/views/VideoGameSalesDashboard_17448243548370/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## 📁 Dataset
 
-- **Source**: Kaggle - [Video Game Sales](https://www.kaggle.com/datasets/gregorut/videogame-sales-with-ratings)
+- **Source**: Kaggle - [Video Game Sales](https://www.kaggle.com/datasets/gregorut/videogamesales)
 - **Rows**: 16,598  
 - **Columns**: 11  
 - Includes game name, platform, genre, publisher, regional sales, and global sales
@@ -31,7 +31,4 @@ This project visualizes global video game sales using the `vgsales.csv` dataset.
 
 - `vgsales.csv` – The dataset
 - `vgsales-dashboard.twbx` – Tableau workbook
-- `screenshots/` – Dashboard image preview
-
----
 
