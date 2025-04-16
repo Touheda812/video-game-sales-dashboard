@@ -4,7 +4,7 @@ This project visualizes global video game sales using the `vgsales.csv` dataset.
 
 ## 📊 Dashboard Preview
 
-![Dashboard Preview](screenshots/vgsales_dashboard.png)
+![Dashboard Preview](vgsales_dashboard.png)
 
 🔗 [View Interactive Tableau Dashboard](https://public.tableau.com/views/VideoGameSalesDashboard_17448243548370/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
