@@ -24,7 +24,7 @@ This project visualizes global video game sales using the `vgsales.csv` dataset.
 ## 💻 Tools Used
 
 - Tableau Public
-- Data Cleaning in Excel/Python
+- Data Cleaning in Python
 - GitHub for version control
 
 ## 🗂️ Files
