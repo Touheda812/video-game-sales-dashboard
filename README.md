@@ -30,5 +30,5 @@ This project visualizes global video game sales using the `vgsales.csv` dataset.
 ## 🗂️ Files
 
 - `vgsales.csv` – The dataset
-- `vgsales-dashboard.twbx` – Tableau workbook
+- `Video Game Sales Insights.twb` – Tableau workbook
 
